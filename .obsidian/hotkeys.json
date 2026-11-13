@@ -56,5 +56,14 @@
       ],
       "key": "G"
     }
+  ],
+  "workspace:new-window": [
+    {
+      "modifiers": [
+        "Alt",
+        "Mod"
+      ],
+      "key": "N"
+    }
   ]
 }
