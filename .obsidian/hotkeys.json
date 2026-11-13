@@ -57,6 +57,7 @@
       "key": "G"
     }
   ],
+<<<<<<< HEAD
   "workspace:new-window": [
     {
       "modifiers": [
@@ -66,4 +67,7 @@
       "key": "N"
     }
   ]
+=======
+  "graph:open": []
+>>>>>>> origin/main
 }
